@@ -1,4 +1,7 @@
-# PyTorch-CNN-MNIST
+<p>
+  <img src="symbol.png" alt="Example Image" align="left" width="55" style="vertical-align: middle; margin-right: 10px;">
+  <h1>PyTorch-CNN-MNIST</h1>
+</p>
 
 This repository demonstrates the use of **PyTorch** to train a Convolutional Neural Network (CNN) on the [MNIST dataset](http://yann.lecun.com/exdb/mnist/). It includes scripts to train the CNN and to use it for classifying user-drawn images of digits. By default, trains on 50% of the MNIST training set for faster experimentation.
 
