@@ -3,7 +3,7 @@
   <h1>PyTorch-CNN-MNIST</h1>
 </p>
 
-This repository is a quick personal project of learning to use PyTorch and learning background of Convolutional Neural Networks(CNN). In this repository is my first project which trains a simple CNN on the [MNIST dataset](http://yann.lecun.com/exdb/mnist/). It includes scripts to train the CNN and to use it for classifying user-drawn images of digits.
+This repository is a quick personal project of learning to use PyTorch and learning background of Convolutional Neural Networks(CNN). In this repository is my first project which trains a simple CNN on the [MNIST](https://www.kaggle.com/datasets/hojjatk/mnist-dataset) dataset. It includes scripts to train the CNN and to use it for classifying user-drawn images of digits.
 
 ## Overview
 
