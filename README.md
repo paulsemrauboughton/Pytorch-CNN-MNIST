@@ -25,6 +25,11 @@ PyTorch-CNN-MNIST/
 └── data/             # Auto-generated MNIST data downloads
 ```
 
+### Sample Output
+<p align="center">
+  <img src="sample_output.png" alt="Symbol" width="400" height="400" style="vertical-align: middle; margin-right: 10px;">
+</p>
+
 ## Notes
 
 - By default, trains on 50% of the MNIST training set for faster experimentation. If computational complexity is not an issue increase the subset of the training set used to train or there are several parameters of the neural network configuration you can change.
