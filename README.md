@@ -16,8 +16,6 @@ The repository contains two main scripts:
 
 ```
 PyTorch-CNN-MNIST/
-├── main.py           # Training script
-├── test.py           # Testing/inference script
 ├── trained_net.pth   # Saved model weights (generated after training)
 ├── MNIST/
 │   └── image.png     # Example user-provided image for testing
