@@ -26,7 +26,7 @@ PyTorch-CNN-MNIST/
 ```
 
 ## Sample Output
-The following drawn image, classification by CNN and probability associated with classification is outputted.
+The following: image drawn by me, classification by the CNN and probability associated with classification is outputted.
 <p align="center">
   <img src="sample_output.png" alt="Symbol" width="400" height="400" style="vertical-align: middle; margin-right: 10px;">
 </p>
