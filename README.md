@@ -19,8 +19,8 @@ PyTorch-CNN-MNIST/
 ├── trained_net.pth   # Saved model weights (generated after training)
 ├── MNIST/
 │   └── image.png     # Example user-provided image for testing
-│   └── main.py           # Training script
-│   └── test.py           # Testing/inference script
+│   └── main.py       # Training script
+│   └── test.py       # Testing/inference script
 ├── README.md         # This README file
 └── data/             # Auto-generated MNIST data downloads
 ```
