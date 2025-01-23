@@ -12,7 +12,7 @@ The repository contains two main scripts:
 1. **`main.py`** – Trains a CNN on the MNIST dataset and saves the trained model to a file (`trained_net.pth`).
 2. **`test.py`** – Loads the saved model (`trained_net.pth`) and performs inference on a user-supplied image of a digit (`image.png`). It outputs the predicted digit and the model's confidence (posterior probability).
 
-### Repository Structure
+## Repository Structure
 
 ```
 PyTorch-CNN-MNIST/
@@ -25,7 +25,8 @@ PyTorch-CNN-MNIST/
 └── data/             # Auto-generated MNIST data downloads
 ```
 
-### Sample Output
+## Sample Output
+The following drawn image, classification by CNN and probability associated with classification is outputted.
 <p align="center">
   <img src="sample_output.png" alt="Symbol" width="400" height="400" style="vertical-align: middle; margin-right: 10px;">
 </p>
